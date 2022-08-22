@@ -36,7 +36,7 @@ pessoa = {
 # aqui usa a chave.
 
 pessoa["idade"] = 10
-pessoa["canal"] = "dschmitz.dev"
+pessoa["canal"] = "site.qualquer"
 
 print(f"Ola, o(a) {pessoa['nome']} tem {pessoa['idade']} anos de idade");
 
@@ -58,7 +58,7 @@ for letr in "Vinicius":
     print(letr)
 
 # List - Comprehension
-letra1: str = "Vinicius Zaffonato Schmitz"
+letra1: str = "Vinicius Antonio Carlos"
 print([letr1 for letr1 in letra1])
 
 # lits comprehension filtered

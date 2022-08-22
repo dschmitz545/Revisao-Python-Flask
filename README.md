@@ -1,5 +1,5 @@
-# Curso da Twitch Codeshow python e flask
-[PlayList Curso na Twitch](https://www.twitch.tv/collections/gRe7fj7iGBZJMQ)
+# Revisando Python e Flask com Bruno Rocha(Code Show)
+[PlayList na Twitch](https://www.twitch.tv/collections/gRe7fj7iGBZJMQ)
 
 ### Pontos interresantes a serem lembrados
 
